@@ -1,5 +1,7 @@
 # Türk Scene Tarihi
 
+[![Build Status](https://www.gitbook.io/button/status/book/vigo/turk-scene-tarihi)](https://www.gitbook.io/book/vigo/turk-scene-tarihi/activity) ![%01](http://progressed.io/bar/1?title=genel "Genel Tamamlanma %77")
+
 [7DX Demoparty 2015](http://7dx-party.org/2015/)'ten sonra kesin karar verdiğim, uzun yıllardır hayalini kurduğum bu kitaba nihayet başladım. Özellikle 1986-1996 tarihleri arasında dökümante edilmesi gerektiğini düşündüğüm, Internet'in olmadığı zamanlarda bilgisayarla tanışan neslin, o devirde yaptıkları, uluslararası platformlarda yaşadıkları ve en önemlisi Türkiye'de bilgisayar kültürünün nasıl ortaya çıktığı ve şekillendiğini anlatan bir belge oluşturmak istiyorum.
 
 Özellikle **Commodore 64** ve **Amiga** bilgisayarlarının bu kitapta rolü ve önemi çok! 8-bit/16-bit dünyası, zamanında bizleri nasıl etkiledi ?, neler yaptık ? ve günümüze etkileri neler? bu konuları işlemek istiyorum.
