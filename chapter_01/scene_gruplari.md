@@ -2,12 +2,15 @@
 
 Aşağıdaki liste grup adına göre alfabetik olarak sıralanmıştır. Sayfaya sığması açısından kısaltmalar:
 
-* YILI : Kuruluş Yılı
-* AMG : Amiga
-* SPC : Spectrum / Sinclair
-* ATR : Atari
-* AMS : Amstrad CPC
-* ?? : Aktif mi?
+* **YILI** : Kuruluş Yılı
+* **AMG** : Amiga
+* **SPC** : Spectrum / Sinclair
+* **ATR** : Atari
+* **AMS** : Amstrad CPC
+* **??** : Aktif mi?
+
+Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı kaynaklı Türk Scener
+’larının olduğu grup listesi ayrıca hazırlanacak.
 
 
 | Grup                        | YILI  | C64 | AMG | SPC | ATR | AMS | PC | ?? | WWW |
