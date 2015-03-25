@@ -31,7 +31,7 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | Hi3s                        | ?     | x   |     |     |     |     |    |    |     |
 | Manyetiq                    | ?     |     |     |     |     |     | x  |    |     |
 | nakedHamsterz               | ?     |     |     |     |     |     | x  |    |     |
-| Pentegram                   | ?     | x   |     |     |     |     |    |    |     |
+| Pentagram                   | ?     | x   |     |     |     |     |    |    |     |
 | Raven                       | ?     |     |     |     |     |     | x  |    | http://www.rdgnetwork.org/raven/ |
 | Resident                    | ?     |     |     |     |     |     | x  | x  | http://residentland.com/ |
 | StillPsycho                 | ?     |     |     |     |     |     | x  |    |     |
