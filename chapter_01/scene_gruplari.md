@@ -15,6 +15,8 @@ Aşağıdaki liste grup adına göre alfabetik olarak sıralanmıştır.
 | The Danger Cobra | 1988?   | x   |       |    |        |   |
 | The Hacker Boys  | 1989    | x   | x     |    |        | http://thehackerboys.com |
 | The Joker Crew   | 1988?   | x   | x     |    |        |   |
+| The Light Force  | 1988?   | x   |       |    |        |   |
+| The Metro Boys   | 1988?   | x   | ?     |    |        |   |
 | TNF'77           | 1988?   | x   |       |    |        |   |
 | Zombie Boys      | 1988    | x   | x     |    |        | http://zombieboys.org/ |
 
