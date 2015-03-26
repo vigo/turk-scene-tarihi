@@ -34,7 +34,7 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | Estergon Design             | ?     | x   |     |     |     |     |    |    |     |
 | Experts                     | 1989  | x   | x   |     |     |     | x  |    |     |
 | Fast Generation             | ?     | x   |     |     |     |     |    |    |     |
-| Foreshadow Cracking Team    | ?     | x   |     |     |     |     |    |    |     |
+| Foreshadow Cracking Team    | 1987? | x   |     |     |     |     |    |    |     |
 | Goblins                     | ?     |     |     |     |     |     | x  |    |     |
 | Glance                      | 2005  | x   |     |     |     |     |    | x  | http://glance.ws |
 | Hi3s                        | ?     | x   |     |     |     |     |    |    |     |
@@ -42,21 +42,26 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | Madness                     | ?     | x   |     |     |     |     |    |    |     |
 | Manyetiq                    | ?     |     |     |     |     |     | x  |    |     |
 | Matahari                    | ?     |     |     |     |     | x   |    |    |     |
+| Medal                       | ?     |     | x   |     |     |     |    |    |     |
 | nakedHamsterz               | ?     |     |     |     |     |     | x  |    |     |
 | Napalm                      | ?     |     |     |     |     |     | x  |    |     |
 | No Carrier                  | ?     |     |     |     |     |     | x  |    |     |
 | Pentagram                   | ?     | x   |     |     |     |     |    |    |     |
+| Pet Shop Boys               | ?     | x   |     |     |     |     |    |    |     |
+| Phobia                      | 1992  | x   |     |     |     |     |    |    |     |
 | Raven                       | ?     |     |     |     |     |     | x  |    | http://www.rdgnetwork.org/raven/ |
 | Realtime                    | ?     |     |     |     |     |     | x  |    |     |
 | Ret                         | 2009? |     |     | x   |     |     |    |    |     |
 | Return                      | 2010? | x   |     |     |     |     |    |    |     |
 | Resident                    | ?     |     |     |     |     |     | x  | x  | http://residentland.com/ |
-| Saints                      |       |     | x   |     |     |     |    |    |     |
+| Saints                      | ?     |     | x   |     |     |     |    |    |     |
 | StillPsycho                 | ?     |     |     |     |     |     | x  |    |     |
 | Turkish Atari Coding Freaks | 1989  |     |     |     | x   |     |    |    |     |
+| The Cobra Boys              | ?     | x   |     |     |     |     |    |    |     |
 | The Danger Cobra            | 1988? | x   |     |     |     |     |    |    |     |
 | The Hacker Boys             | 1989  | x   | x   |     |     |     |    |    | http://thehackerboys.com |
 | The Joker Crew              | 1988? | x   | x   |     |     |     |    |    |     |
+| Turkish Mega Force          | ?     |     |     |     |     |     |    |    |     |
 | The Light Force             | 1988? | x   |     |     |     |     |    |    |     |
 | The Mafia Guys              | 1988  | x   |     |     |     |     |    |    |     |
 | The Metro Boys              | 1988? | x   | ?   |     |     |     |    |    |     |
