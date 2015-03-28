@@ -17,20 +17,30 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | --------------------------- | ----- | --- | --- | --- | --- | --- | -- | -- | --- |
 | Accuracy                    | ?     | x   | ?   |     |     |     |    | ?  |     |
 | Aesrude                     | ?     | x   |     |     |     |     | x  | x  |     |
+| Ahmet Cracking Service      | ?     |     | x   |     |     |     |    |    |     |
 | Aids                        | 1990? | x   |     |     |     |     |    |    |     |
+| Aliens                      | ?     |     |     |     |     |     | x  |    |     |
 | Analog                      | ?     |     | ?   |     |     |     |    |    |     |
 | Angels                      | ?     |     | x   |     |     |     |    |    |     |
 | Arteffect                   | ?     |     |     |     |     | x   | x  | ?  |     |
 | Ascraeus                    | ?     | x   |     |     |     |     |    | ?  |     |
 | Assasins                    | ?     | x   |     |     |     |     |    |    |     |
+| Bodys                       | ?     |     | x   |     |     |     |    |    |     |
 | Bronx                       | 1990  | x   | x   |     |     |     | x  | x  | http://bronxwhq.org/ |
+| Bross                       | ?     | x   | x   |     |     |     |    |    |     |
+| Cengo Boys                  | ?     |     | x   |     |     |     |    |    |     |
+| Chaos #1                    | ?     | x   |     |     |     |     |    |    |     |
 | Clash                       | 2006? |     |     |     |     |     | x  |    |     |
 | Clique                      | 1990? | x   | x   |     |     |     | ?  | ?  | http://www.clq.com/ |
 | Crescent                    | ?     | x   |     |     |     |     |    | x  | http://crescent.io/ |
 | Comrade                     | 1988? | x   |     |     |     |     |    |    |     |
+| Compuphiliacs               | 1990  |     | x   |     |     |     |    | ?  | http://www.stillpsycho.net/Compuphiliacs |
+| Cornercut                   | ?     |     |     |     |     |     | x  |    |     |
 | Coroner                     | ?     |     | x   |     |     |     |    |    |     |
 | Cyclotron                   | 1990  | x   | x   |     |     |     |    |    |     |
 | Demodojo                    | ?     | x   |     |     |     |     | x  |    |     |
+| Dragons                     | ?     | x   |     |     |     |     | x  |    |     |
+| Dynamiga                    | ?     |     | x   |     |     |     |    |    |     |
 | Echo Crew                   | 1990? | x   |     |     |     |     |    |    |     |
 | Estergon Design             | ?     | x   |     |     |     |     |    |    |     |
 | Experts                     | 1989  | x   | x   |     |     |     | x  |    |     |
