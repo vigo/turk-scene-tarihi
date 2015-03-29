@@ -10,7 +10,8 @@ Aşağıdaki liste grup adına göre alfabetik olarak sıralanmıştır. Sayfaya
 * **??** : Aktif mi?
 
 Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı kaynaklı Türk Scener
-’larının olduğu grup listesi ayrıca hazırlanacak.
+’larının olduğu grup listesi ayrıca hazırlanacak. Keza, bir kısım bilgisayarcı da
+aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listeleyeceğiz.
 
 
 | Grup                        | YILI  | C64 | AMG | SPC | ATR | AMS | PC | ?? | WWW |
@@ -50,16 +51,23 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | Glance                      | 2005  | x   |     |     |     |     |    | x  | http://glance.ws |
 | Hi3s                        | ?     | x   |     |     |     |     |    |    |     |
 | Inox                        | ?     | x   |     |     |     |     |    |    |     |
+| Kondor                      | ?     |     |     |     |     |     | x  |    |     |
+| Legacy                      | ?     |     | x   |     |     |     |    |    |     |
 | Madness                     | ?     | x   |     |     |     |     |    |    |     |
 | Manyetiq                    | ?     |     |     |     |     |     | x  |    |     |
+| Mastermind                  | ?     |     |     |     |     |     |    |    |     |
 | Matahari                    | ?     |     |     |     |     | x   |    |    |     |
 | Medal                       | ?     |     | x   |     |     |     |    |    |     |
+| Mercury                     | ?     |     |     |     |     |     |    |    |     |
+| Mosaic                      | ?     |     |     |     |     |     | x  |    |     |
 | nakedHamsterz               | ?     |     |     |     |     |     | x  |    |     |
 | Napalm                      | ?     |     |     |     |     |     | x  |    |     |
 | No Carrier                  | ?     |     |     |     |     |     | x  |    |     |
 | Pentagram                   | ?     | x   |     |     |     |     |    |    |     |
 | Pet Shop Boys               | ?     | x   |     |     |     |     |    |    |     |
 | Phobia                      | 1992  | x   |     |     |     |     |    |    |     |
+| Public Enemy                | ?     |     | x   |     |     |     |    |    |     |
+| Psycho                      | ?     |     | x   |     |     |     |    |    |     |
 | Raven                       | ?     |     |     |     |     |     | x  |    | http://www.rdgnetwork.org/raven/ |
 | Rayden                      | 1996  | x   |     |     |     |     |    |    |     |
 | Realtime                    | ?     |     |     |     |     |     | x  |    |     |
@@ -68,6 +76,7 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | Resident                    | ?     |     |     |     |     |     | x  | x  | http://residentland.com/ |
 | Saints                      | ?     |     | x   |     |     |     |    |    |     |
 | StillPsycho                 | ?     |     |     |     |     |     | x  |    |     |
+| Tacs From Turkey            | ?     |     | x   |     |     |     |    |    |     |
 | Team Brooks                 | ?     | x   |     |     |     |     |    |    |     |
 | The Cobra Boys              | ?     | x   |     |     |     |     |    |    |     |
 | The Cool Angels             | 1989? | x   |     |     |     |     |    |    |     |
@@ -75,8 +84,6 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | The Delta Union             | ?     | x   |     |     |     |     |    |    |     |
 | The Hacker Boys             | 1989  | x   | x   |     |     |     |    |    | http://thehackerboys.com |
 | The Joker Crew              | 1988? | x   | x   |     |     |     |    |    |     |
-| Turkish Atari Coding Freaks | 1989  |     |     |     | x   |     |    |    |     |
-| Turkish Mega Force          | ?     |     |     |     |     |     |    |    |     |
 | The Light Force             | 1988? | x   |     |     |     |     |    |    |     |
 | The Mafia Guys              | 1988  | x   |     |     |     |     |    |    |     |
 | The Metro Boys              | 1988? | x   | ?   |     |     |     |    |    |     |
@@ -85,7 +92,8 @@ Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı ka
 | The Sample Boys             | ?     | x   |     |     |     |     |    |    |     |
 | Thunders                    | 1990  | x   |     |     |     |     |    |    |     |
 | TNF'77                      | 1988? | x   |     |     |     |     |    |    |     |
+| Trauma                      | ?     |     | x   |     |     |     |    |    |     |
+| Turkish Atari Coding Freaks | 1989  |     |     |     | x   |     |    |    |     |
+| Turkish Mega Force          | ?     |     |     |     |     |     |    |    |     |
 | Zombie Boys                 | 1988  | x   | x   |     |     |     |    |    | http://zombieboys.org/ |
 | Zomco                       | 2010? |     | x   |     |     |     |    |    |     |
-
-@wip
