@@ -16,9 +16,9 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 
 | Grup                        | YILI  | C64 | AMG | SPC | ATR | AMS | PC | ?? | WWW |
 | --------------------------- | ----- | --- | --- | --- | --- | --- | -- | -- | --- |
-| Accuracy                    | ?     | x   | ?   |     |     |     |    | ?  |     |
-| Aesrude                     | ?     | x   |     |     |     |     | x  | x  |     |
-| Ahmet Cracking Service      | ?     |     | x   |     |     |     |    |    |     |
+| [Accuracy](gruplar/accuracy.md)                    | ?     | x   | ?   |     |     |     |    | ?  |     |
+| [Aesrude](gruplar/aesrude.md)                     | ?     | x   |     |     |     |     | x  | x  |     |
+| [Ahmet Cracking Service](gruplar/ahmet_cracking_service.md)      | ?     |     | x   |     |     |     |    |    |     |
 | Aids                        | 1990? | x   |     |     |     |     |    |    |     |
 | Aliens                      | ?     |     |     |     |     |     | x  |    |     |
 | Analog                      | ?     |     | ?   |     |     |     |    |    |     |
@@ -27,7 +27,7 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | Ascraeus                    | ?     | x   |     |     |     |     |    | ?  |     |
 | Assasins                    | ?     | x   |     |     |     |     |    |    |     |
 | Bodys                       | ?     |     | x   |     |     |     |    |    |     |
-| Bronx                       | 1990  | x   | x   |     |     |     | x  | x  | http://bronxwhq.org/ |
+| [Bronx](gruplar/bronx.md)                       | 1990  | x   | x   |     |     |     | x  | x  | http://bronxwhq.org/ |
 | Bross                       | ?     | x   | x   |     |     |     |    |    |     |
 | Cengo Boys                  | ?     |     | x   |     |     |     |    |    |     |
 | Chaos #1                    | ?     | x   |     |     |     |     |    |    |     |
