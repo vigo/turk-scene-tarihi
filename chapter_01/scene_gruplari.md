@@ -19,16 +19,16 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | [Accuracy](gruplar/accuracy.md)                    | ?     | x   | ?   |     |     |     |    | ?  |     |
 | [Aesrude](gruplar/aesrude.md)                     | ?     | x   |     |     |     |     | x  | x  |     |
 | [Ahmet Cracking Service](gruplar/ahmet_cracking_service.md)      | ?     |     | x   |     |     |     |    |    |     |
-| Aids                        | 1990? | x   |     |     |     |     |    |    |     |
-| Aliens                      | ?     |     |     |     |     |     | x  |    |     |
-| Analog                      | ?     |     | ?   |     |     |     |    |    |     |
-| Angels                      | ?     |     | x   |     |     |     |    |    |     |
-| Arteffect                   | ?     |     |     |     |     | x   | x  | ?  |     |
-| Ascraeus                    | ?     | x   |     |     |     |     |    | ?  |     |
-| Assasins                    | ?     | x   |     |     |     |     |    |    |     |
-| Bodys                       | ?     |     | x   |     |     |     |    |    |     |
+| [Aids](gruplar/aids.md)                        | 1990? | x   |     |     |     |     |    |    |     |
+| [Aliens](gruplar/aliens.md)                      | ?     |     |     |     |     |     | x  |    |     |
+| [Analog](gruplar/analog.md)                      | ?     |     | ?   |     |     |     |    |    |     |
+| [Angels](gruplar/angels.md)                      | ?     |     | x   |     |     |     |    |    |     |
+| [Arteffect](gruplar/arteffect.md)                   | ?     |     |     |     |     | x   | x  | ?  |     |
+| [Ascraeus](gruplar/ascraeus.md)                    | ?     | x   |     |     |     |     |    | ?  |     |
+| [Assasins](gruplar/assasins.md)                    | ?     | x   |     |     |     |     |    |    |     |
+| [Bodys](gruplar/bodys.md)                       | ?     |     | x   |     |     |     |    |    |     |
 | [Bronx](gruplar/bronx.md)                       | 1990  | x   | x   |     |     |     | x  | x  | http://bronxwhq.org/ |
-| Bross                       | ?     | x   | x   |     |     |     |    |    |     |
+| [Bross](gruplar/bross.md)                       | ?     | x   | x   |     |     |     |    |    |     |
 | Cengo Boys                  | ?     |     | x   |     |     |     |    |    |     |
 | Chaos #1                    | ?     | x   |     |     |     |     |    |    |     |
 | Clash                       | 2006? |     |     |     |     |     | x  |    |     |
