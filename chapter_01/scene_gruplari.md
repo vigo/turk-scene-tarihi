@@ -29,16 +29,16 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | [Bodys](gruplar/bodys.md)                       | ?     |     | x   |     |     |     |    |    |     |
 | [Bronx](gruplar/bronx.md)                       | 1990  | x   | x   |     |     |     | x  | x  | http://bronxwhq.org/ |
 | [Bross](gruplar/bross.md)                       | ?     | x   | x   |     |     |     |    |    |     |
-| Cengo Boys                  | ?     |     | x   |     |     |     |    |    |     |
-| Chaos #1                    | ?     | x   |     |     |     |     |    |    |     |
-| Clash                       | 2006? |     |     |     |     |     | x  |    |     |
-| Clique                      | 1990? | x   | x   |     |     |     | ?  | ?  | http://www.clq.com/ |
-| Crescent                    | ?     | x   |     |     |     |     |    | x  | http://crescent.io/ |
-| Comrade                     | 1988? | x   |     |     |     |     |    |    |     |
-| Compuphiliacs               | 1990  |     | x   |     |     |     |    | ?  | http://www.stillpsycho.net/Compuphiliacs |
-| Cornercut                   | ?     |     |     |     |     |     | x  |    |     |
-| Coroner                     | ?     |     | x   |     |     |     |    |    |     |
-| Cyclotron                   | 1990  | x   | x   |     |     |     |    |    |     |
+| [Cengo Boys](gruplar/cengo_boys.md)                  | ?     |     | x   |     |     |     |    |    |     |
+| [Chaos #1](gruplar/chaos_number_1.md)                    | ?     | x   |     |     |     |     |    |    |     |
+| [Clash](gruplar/clash.md)                       | 2006? |     |     |     |     |     | x  |    |     |
+| [Clique](gruplar/clique.md)                      | 1990? | x   | x   |     |     |     | ?  | ?  | http://www.clq.com/ |
+| [Compuphiliacs](gruplar/compuphiliacs.md)               | 1990  |     | x   |     |     |     |    | ?  | http://www.stillpsycho.net/Compuphiliacs |
+| [Comrade](gruplar/comrade.md)                     | 1988? | x   |     |     |     |     |    |    |     |
+| [Cornercut](gruplar/cornercut.md)                   | ?     |     |     |     |     |     | x  |    |     |
+| [Coroner](gruplar/coroner.md)                     | ?     |     | x   |     |     |     |    |    |     |
+| [Crescent](gruplar/crescent.md)                    | ?     | x   |     |     |     |     |    | x  | http://crescent.io/ |
+| [Cyclotron](gruplar/cyclotron.md)                   | 1990  | x   | x   |     |     |     |    |    |     |
 | Demodojo                    | ?     | x   |     |     |     |     | x  |    |     |
 | Dragons                     | ?     | x   |     |     |     |     | x  |    |     |
 | Dynamiga                    | ?     |     | x   |     |     |     |    |    |     |
