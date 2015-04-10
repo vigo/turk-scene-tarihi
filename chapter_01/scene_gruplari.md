@@ -39,14 +39,14 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | [Coroner](gruplar/coroner.md)                     | ?     |     | x   |     |     |     |    |    |     |
 | [Crescent](gruplar/crescent.md)                    | ?     | x   |     |     |     |     |    | x  | http://crescent.io/ |
 | [Cyclotron](gruplar/cyclotron.md)                   | 1990  | x   | x   |     |     |     |    |    |     |
-| Demodojo                    | ?     | x   |     |     |     |     | x  |    |     |
-| Dragons                     | ?     | x   |     |     |     |     | x  |    |     |
-| Dynamiga                    | ?     |     | x   |     |     |     |    |    |     |
-| Echo Crew                   | 1990? | x   |     |     |     |     |    |    |     |
-| Estergon Design             | ?     | x   |     |     |     |     |    |    |     |
-| Experts                     | 1989  | x   | x   |     |     |     | x  |    |     |
-| Fast Generation             | ?     | x   |     |     |     |     |    |    |     |
-| Foreshadow Cracking Team    | 1987? | x   |     |     |     |     |    |    |     |
+| [Demodojo](gruplar/demodojo.md)                    | ?     | x   |     |     |     |     | x  |    |     |
+| [Dragons](gruplar/dragons.md)                     | ?     | x   |     |     |     |     | x  |    |     |
+| [Dynamiga](gruplar/dynamiga.md)                    | ?     |     | x   |     |     |     |    |    |     |
+| [Echo Crew](gruplar/echo_crew.md)                   | 1990? | x   |     |     |     |     |    |    |     |
+| [Estergon Design](gruplar/estergon_design.md)             | ?     | x   |     |     |     |     |    |    |     |
+| [Experts](gruplar/experts.md)                     | 1989  | x   | x   |     |     |     | x  |    |     |
+| [Fast Generation](gruplar/fast_generation.md)             | ?     | x   |     |     |     |     |    |    |     |
+| [Foreshadow Cracking Team](gruplar/foreshadow_cracking_team.md)    | 1987? | x   |     |     |     |     |    |    |     |
 | Goblins                     | ?     |     |     |     |     |     | x  |    |     |
 | Glance                      | 2005  | x   |     |     |     |     |    | x  | http://glance.ws |
 | Hi3s                        | ?     | x   |     |     |     |     |    |    |     |
