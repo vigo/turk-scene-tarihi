@@ -47,19 +47,19 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | [Experts](gruplar/experts.md)                     | 1989  | x   | x   |     |     |     | x  |    |     |
 | [Fast Generation](gruplar/fast_generation.md)             | ?     | x   |     |     |     |     |    |    |     |
 | [Foreshadow Cracking Team](gruplar/foreshadow_cracking_team.md)    | 1987? | x   |     |     |     |     |    |    |     |
-| Goblins                     | ?     |     |     |     |     |     | x  |    |     |
-| Glance                      | 2005  | x   |     |     |     |     |    | x  | http://glance.ws |
-| Hi3s                        | ?     | x   |     |     |     |     |    |    |     |
-| Inox                        | ?     | x   |     |     |     |     |    |    |     |
-| Kondor                      | ?     |     |     |     |     |     | x  |    |     |
-| Legacy                      | ?     |     | x   |     |     |     |    |    |     |
-| Madness                     | ?     | x   |     |     |     |     |    |    |     |
-| Manyetiq                    | ?     |     |     |     |     |     | x  |    |     |
-| Mastermind                  | ?     |     |     |     |     |     |    |    |     |
-| Matahari                    | ?     |     |     |     |     | x   |    |    |     |
-| Medal                       | ?     |     | x   |     |     |     |    |    |     |
-| Mercury                     | ?     |     |     |     |     |     |    |    |     |
-| Mosaic                      | ?     |     |     |     |     |     | x  |    |     |
+| [Glance](gruplar/glance.md)                      | 2005  | x   |     |     |     |     |    | x  | http://glance.ws |
+| [Goblins](gruplar/goblins.md)                     | ?     |     |     |     |     |     | x  |    |     |
+| [Hi3s](gruplar/hi3s.md)                        | ?     | x   |     |     |     |     |    |    |     |
+| [Inox](gruplar/inox.md)                        | ?     | x   |     |     |     |     |    |    |     |
+| [Kondor](gruplar/kondor.md)                      | ?     |     |     |     |     |     | x  |    |     |
+| [Legacy](gruplar/legacy.md)                      | ?     |     | x   |     |     |     |    |    |     |
+| [Madness](gruplar/madness.md)                     | ?     | x   |     |     |     |     |    |    |     |
+| [Manyetiq](gruplar/manyetiq.md)                    | ?     |     |     |     |     |     | x  |    |     |
+| [Mastermind](gruplar/mastermind.md)                  | ?     |     |     |     |     |     |    |    |     |
+| [Matahari](gruplar/matahari.md)                    | ?     |     |     |     |     | x   |    |    |     |
+| [Medal](gruplar/medal.md)                       | ?     |     | x   |     |     |     |    |    |     |
+| [Mercury](gruplar/mercury.md)                     | ?     |     |     |     |     |     |    |    |     |
+| [Mosaic](gruplar/mosaic.md)                      | ?     |     |     |     |     |     | x  |    |     |
 | nakedHamsterz               | ?     |     |     |     |     |     | x  |    |     |
 | Napalm                      | ?     |     |     |     |     |     | x  |    |     |
 | No Carrier                  | ?     |     |     |     |     |     | x  |    |     |
