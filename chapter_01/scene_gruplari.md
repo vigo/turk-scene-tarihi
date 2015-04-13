@@ -60,20 +60,20 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | [Medal](gruplar/medal.md)                       | ?     |     | x   |     |     |     |    |    |     |
 | [Mercury](gruplar/mercury.md)                     | ?     |     |     |     |     |     |    |    |     |
 | [Mosaic](gruplar/mosaic.md)                      | ?     |     |     |     |     |     | x  |    |     |
-| nakedHamsterz               | ?     |     |     |     |     |     | x  |    |     |
-| Napalm                      | ?     |     |     |     |     |     | x  |    |     |
-| No Carrier                  | ?     |     |     |     |     |     | x  |    |     |
-| Pentagram                   | ?     | x   |     |     |     |     |    |    |     |
-| Pet Shop Boys               | ?     | x   |     |     |     |     |    |    |     |
-| Phobia                      | 1992  | x   |     |     |     |     |    |    |     |
-| Public Enemy                | ?     |     | x   |     |     |     |    |    |     |
-| Psycho                      | ?     |     | x   |     |     |     |    |    |     |
-| Raven                       | ?     |     |     |     |     |     | x  |    | http://www.rdgnetwork.org/raven/ |
-| Rayden                      | 1996  | x   |     |     |     |     |    |    |     |
-| Realtime                    | ?     |     |     |     |     |     | x  |    |     |
-| Ret                         | 2009? |     |     | x   |     |     |    |    |     |
-| Return                      | 2010? | x   |     |     |     |     |    |    |     |
-| Resident                    | ?     |     |     |     |     |     | x  | x  | http://residentland.com/ |
+| [nakedHamsterz](gruplar/naked_hamsterz.md)               | ?     |     |     |     |     |     | x  |    |     |
+| [Napalm](gruplar/napalm.md)                      | ?     |     |     |     |     |     | x  |    |     |
+| [No Carrier](gruplar/no_carrier.md)                  | ?     |     |     |     |     |     | x  |    |     |
+| [Pentagram](gruplar/pentagram.md)                   | ?     | x   |     |     |     |     |    |    |     |
+| [Pet Shop Boys](gruplar/pet_shop_boys.md)               | ?     | x   |     |     |     |     |    |    |     |
+| [Phobia](gruplar/phobia.md)                      | 1992  | x   |     |     |     |     |    |    |     |
+| [Psycho](gruplar/psycho.md)                      | ?     |     | x   |     |     |     |    |    |     |
+| [Public Enemy](gruplar/public_enemy.md)                | ?     |     | x   |     |     |     |    |    |     |
+| [Raven](gruplar/raven.md)                       | ?     |     |     |     |     |     | x  |    | http://www.rdgnetwork.org/raven/ |
+| [Rayden](gruplar/rayden.md)                      | 1996  | x   |     |     |     |     |    |    |     |
+| [Realtime](gruplar/realtime.md)                    | ?     |     |     |     |     |     | x  |    |     |
+| [Resident](gruplar/resident.md)                    | ?     |     |     |     |     |     | x  | x  | http://residentland.com/ |
+| [Ret](gruplar/ret.md)                         | 2009? |     |     | x   |     |     |    |    |     |
+| [Return](gruplar/return.md)                      | 2010? | x   |     |     |     |     |    |    |     |
 | Saints                      | ?     |     | x   |     |     |     |    |    |     |
 | StillPsycho                 | ?     |     |     |     |     |     | x  |    |     |
 | Tacs From Turkey            | ?     |     | x   |     |     |     |    |    |     |
