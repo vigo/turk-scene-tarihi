@@ -74,26 +74,26 @@ aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listele
 | [Resident](gruplar/resident.md)                    | ?     |     |     |     |     |     | x  | x  | http://residentland.com/ |
 | [Ret](gruplar/ret.md)                         | 2009? |     |     | x   |     |     |    |    |     |
 | [Return](gruplar/return.md)                      | 2010? | x   |     |     |     |     |    |    |     |
-| Saints                      | ?     |     | x   |     |     |     |    |    |     |
-| StillPsycho                 | ?     |     |     |     |     |     | x  |    |     |
-| Tacs From Turkey            | ?     |     | x   |     |     |     |    |    |     |
-| Team Brooks                 | ?     | x   |     |     |     |     |    |    |     |
-| The Cobra Boys              | ?     | x   |     |     |     |     |    |    |     |
-| The Cool Angels             | 1989? | x   |     |     |     |     |    |    |     |
-| The Danger Cobra            | 1988? | x   |     |     |     |     |    |    |     |
-| The Delta Union             | ?     | x   |     |     |     |     |    |    |     |
-| The Hacker Boys             | 1989  | x   | x   |     |     |     |    |    | http://thehackerboys.com |
-| The Joker Crew              | 1988? | x   | x   |     |     |     |    |    |     |
-| The Light Force             | 1988? | x   |     |     |     |     |    |    |     |
-| The Mafia Guys              | 1988  | x   |     |     |     |     |    |    |     |
-| The Metro Boys              | 1988? | x   | ?   |     |     |     |    |    |     |
-| The Phaze Company           | 1989? | x   |     |     |     |     |    |    |     |
-| The Rough Boys              | 1987  | x   |     |     |     |     |    |    |     |
-| The Sample Boys             | ?     | x   |     |     |     |     |    |    |     |
-| Thunders                    | 1990  | x   |     |     |     |     |    |    |     |
-| TNF'77                      | 1988? | x   |     |     |     |     |    |    |     |
-| Trauma                      | ?     |     | x   |     |     |     |    |    |     |
-| Turkish Atari Coding Freaks | 1989  |     |     |     | x   |     |    |    |     |
-| Turkish Mega Force          | ?     |     |     |     |     |     |    |    |     |
-| Zombie Boys                 | 1988  | x   | x   |     |     |     |    |    | http://zombieboys.org/ |
-| Zomco                       | 2010? |     | x   |     |     |     |    |    |     |
+| [Saints](gruplar/saints.md)                      | ?     |     | x   |     |     |     |    |    |     |
+| [StillPsycho](gruplar/still_psycho.md)                 | ?     |     |     |     |     |     | x  |    |     |
+| [Tacs From Turkey](gruplar/tacs_from_turkey.md)            | ?     |     | x   |     |     |     |    |    |     |
+| [Team Brooks](gruplar/team_brooks.md)                 | ?     | x   |     |     |     |     |    |    |     |
+| [The Cobra Boys](gruplar/the_cobra_boys.md)              | ?     | x   |     |     |     |     |    |    |     |
+| [The Cool Angels](gruplar/the_cool_angels.md)             | 1989? | x   |     |     |     |     |    |    |     |
+| [The Danger Cobra](gruplar/the_danger_cobra.md)            | 1988? | x   |     |     |     |     |    |    |     |
+| [The Delta Union](gruplar/the_delta_union.md)             | ?     | x   |     |     |     |     |    |    |     |
+| [The Hacker Boys](gruplar/the_hacker_boys.md)             | 1989  | x   | x   |     |     |     |    |    | http://thehackerboys.com |
+| [The Joker Crew](gruplar/the_joker_crew.md)              | 1988? | x   | x   |     |     |     |    |    |     |
+| [The Light Force](gruplar/the_light_force.md)             | 1988? | x   |     |     |     |     |    |    |     |
+| [The Mafia Guys](gruplar/the_mafia_guys.md)              | 1988  | x   |     |     |     |     |    |    |     |
+| [The Metro Boys](gruplar/the_metro_boys.md)              | 1988? | x   | ?   |     |     |     |    |    |     |
+| [The Phaze Company](gruplar/the_phaze_company.md)           | 1989? | x   |     |     |     |     |    |    |     |
+| [The Rough Boys](gruplar/the_rough_boys.md)              | 1987  | x   |     |     |     |     |    |    |     |
+| [The Sample Boys](gruplar/the_sample_boys.md)             | ?     | x   |     |     |     |     |    |    |     |
+| [Thunders](gruplar/thunders.md)                    | 1990  | x   |     |     |     |     |    |    |     |
+| [TNF'77](gruplar/tnf_77.md)                      | 1988? | x   |     |     |     |     |    |    |     |
+| [Trauma](gruplar/trauma.md)                      | ?     |     | x   |     |     |     |    |    |     |
+| [Turkish Atari Coding Freaks](gruplar/turkish_atari_coding_freaks.md) | 1989  |     |     |     | x   |     |    |    |     |
+| [Turkish Mega Force](gruplar/turkish_mega_force.md)          | ?     |     |     |     |     |     |    |    |     |
+| [Zombie Boys](gruplar/zombie_boys.md)                 | 1988  | x   | x   |     |     |     |    |    | http://zombieboys.org/ |
+| [Zomco](gruplar/zomco.md)                       | 2010? |     | x   |     |     |     |    |    |     |
