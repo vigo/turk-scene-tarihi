@@ -8,4 +8,25 @@ Bu bölümde, tek tek tüm bu dükkanları anlatacağım. Bazı dükkanların,
 efsade scene gruplarının kurulmasında çok büyük katkıları oldu. Zaten
 scener’ların bir kısmı da zaman zaman bu dükkanlarda çalışmışlardı.
 
-Hatta bazı dükkanlar, neredeyse o grubun merkez üsse gibi bile olmuştu.
+Hatta bazı dükkanlar, neredeyse o grubun merkez üssü gibi bile olmuştu.
+Hatırladığımız kadarıyla dükkanların listesi şöyle:
+
+## İstanbul / Anadolu Yakası
+
+* [Erman Computer House / Amiga House](dukkanlar/erman_computer_house.md)
+* [Laçin Bilgisayar](dukkanlar/lacin_bilgisayar.md)
+* MCC
+* Peken Bilgisayar
+* Probe
+* Ufo Bilgisayar
+* Uygar Elektronik
+
+## İstanbul / Avrupa Yakası
+
+* Asoft
+* Biltek
+* Compushop
+* Galeria Commodore Center
+* Osam
+* Pirates
+* Sky

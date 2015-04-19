@@ -1,11 +1,12 @@
 # Summary
 
 * [Giriş](README.md)
-* [Bölüm 1](chapter_01/index.md)
+* [Bölüm 1: Giriş](chapter_01/index.md)
    * [Scene Nedir?](chapter_01/scene_nedir.md)
    * [Demoscene Nedir?](chapter_01/demoscene_nedir.md)
-   * [Scene Grupları](chapter_01/scene_gruplari.md)
-* [Gruplar](gruplar/README.md)
+   * [Scener Nedir?](chapter_01/scener_nedir.md)
+   * [Group Nedir?](chapter_01/group_nedir.md)
+* [Bölüm 2: Gruplar](gruplar/README.md)
    * [Accuracy](gruplar/accuracy.md)
    * [Aesrude](gruplar/aesrude.md)
    * [Ahmet Cracking Service](gruplar/ahmet_cracking_service.md)
@@ -50,4 +51,4 @@
    * [Medal](gruplar/medal.md)
    * [Mercury](gruplar/mercury.md)
    * [Mosaic](gruplar/mosaic.md)
-* [Dükkanlar](dukkanlar/README.md)
+* [Bölüm 3: Dükkanlar](dukkanlar/README.md)
