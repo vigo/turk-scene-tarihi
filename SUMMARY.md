@@ -59,6 +59,7 @@
       * [Byte Computer House](dukkanlar/istanbul/byte_computer_house.md)
       * [Compushop](dukkanlar/istanbul/compushop.md)
       * [Erman Computer House](dukkanlar/istanbul/erman_computer_house.md)
+      * [Flamingo](dukkanlar/istanbul/flamingo.md)
       * [Galeria Commodore Center](dukkanlar/istanbul/galeria_commodore_center.md)
       * [Laçin Bilgisayar](dukkanlar/istanbul/lacin_bilgisayar.md)
       * [MCC](dukkanlar/istanbul/mcc.md)

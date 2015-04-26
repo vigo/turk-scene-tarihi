@@ -15,6 +15,7 @@
 * [Asoft](istanbul/asoft.md)
 * [Biltek](istanbul/biltek.md)
 * [Compushop](istanbul/compushop.md)
+* [Flamingo](istanbul/flamingo.md)
 * [Galeria Commodore Center](istanbul/galeria_commodore_center.md)
 * [Osam](istanbul/osam.md)
 * [Sorbim](istanbul/sorbim.md)
