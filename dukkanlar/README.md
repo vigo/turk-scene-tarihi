@@ -11,4 +11,6 @@ scener’ların bir kısmı da zaman zaman bu dükkanlarda çalışmışlardı.
 Hatta bazı dükkanlar, neredeyse o grubun merkez üssü gibi bile olmuştu.
 
 * [Ankara](ankara/README.md)
+* [Eskişehir](eskisehir/README.md)
 * [İstanbul](istanbul/README.md)
+* [İzmir](izmir/README.md)

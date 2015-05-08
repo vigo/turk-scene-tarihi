@@ -66,6 +66,7 @@
       * [Asperkan](dukkanlar/istanbul/asperkan.md)
       * [Astarte](dukkanlar/istanbul/astarte.md)
       * [Aytaç Bilgisayar](dukkanlar/istanbul/aytac_bilgisayar.md)
+      * [Bil-Mer](dukkanlar/istanbul/bil-mer.md)
       * [Bil-Tek](dukkanlar/istanbul/bil-tek.md)
       * [Boğaziçi](dukkanlar/istanbul/bogazici.md)
       * [Bros](dukkanlar/istanbul/bros.md)
@@ -95,3 +96,4 @@
    * [İzmir](dukkanlar/izmir/README.md)
       * [Bildem Elektronik](dukkanlar/izmir/bildem_elektronik.md)
       * [Bülbül Elektronik](dukkanlar/izmir/bulbul_elektronik.md)
+      * [Emin Bilgisayar](dukkanlar/izmir/emin_bilgisayar.md)
