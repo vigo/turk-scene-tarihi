@@ -95,5 +95,6 @@
       * [Uygar Elektronik](dukkanlar/istanbul/uygar_elektronik.md)
    * [İzmir](dukkanlar/izmir/README.md)
       * [Bildem Elektronik](dukkanlar/izmir/bildem_elektronik.md)
+      * [Boyut](dukkanlar/izmir/boyut.md)
       * [Bülbül Elektronik](dukkanlar/izmir/bulbul_elektronik.md)
       * [Emin Bilgisayar](dukkanlar/izmir/emin_bilgisayar.md)
