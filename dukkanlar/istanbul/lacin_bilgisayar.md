@@ -1,1 +1,0 @@
-# Laçin Bilgisayar

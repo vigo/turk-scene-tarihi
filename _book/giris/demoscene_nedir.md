@@ -1,1 +1,0 @@
-# Demoscene Nedir?
