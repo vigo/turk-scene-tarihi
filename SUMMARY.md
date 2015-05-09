@@ -97,4 +97,5 @@
       * [Bildem Elektronik](dukkanlar/izmir/bildem_elektronik.md)
       * [Boyut](dukkanlar/izmir/boyut.md)
       * [Bülbül Elektronik](dukkanlar/izmir/bulbul_elektronik.md)
+      * [Datasoft Bilgisayar](dukkanlar/izmir/datasoft_bilgisayar.md)
       * [Emin Bilgisayar](dukkanlar/izmir/emin_bilgisayar.md)
