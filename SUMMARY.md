@@ -54,6 +54,7 @@
 * [Bölüm 3: Dükkanlar](dukkanlar/README.md)
    * [Ankara](dukkanlar/ankara/README.md)
       * [Akustik](dukkanlar/ankara/akustik.md)
+      * [Compu-Joy](dukkanlar/ankara/compu_joy.md)
       * [Elektra](dukkanlar/ankara/elektra.md)
       * [Gözlem Bilgisayar](dukkanlar/ankara/gozlem_bilgisayar.md)
       * [Micro Showy](dukkanlar/ankara/micro_showy.md)
