@@ -103,6 +103,7 @@
       * [TST](dukkanlar/istanbul/tst.md)
       * [Ufo Bilgisayar](dukkanlar/istanbul/ufo_bilgisayar.md)
       * [Uygar Elektronik](dukkanlar/istanbul/uygar_elektronik.md)
+      * [Yeşilköy Commodore Center](dukkanlar/istanbul/yesilkoy_commodore_center.md)
    * [İzmir](dukkanlar/izmir/README.md)
       * [Bildem Elektronik](dukkanlar/izmir/bildem_elektronik.md)
       * [Boyut](dukkanlar/izmir/boyut.md)
