@@ -1,11 +1,14 @@
-# Bölüm 1
+# Giriş
 
 Bu bölümde;
 
-* [Scene Nedir?](chapter_01/scene_nedir.md)
-* [Demoscene Nedir?](chapter_01/demoscene_nedir.md)
-* [Scener Nedir?](chapter_01/scener_nedir.md)
-* [Group Nedir?](chapter_01/group_nedir.md)
+* [Scene Nedir?](scene_nedir.md)
+* [Demoscene Nedir?](demoscene_nedir.md)
+* [Scener Nedir?](scener_nedir.md)
+* [Group Nedir?](group_nedir.md)
+* [Release Nedir?](release_nedir.md)
+* [Intro Nedir?](intro_nedir.md)
+* [Demo Nedir?](demo_nedir.md)
 
 bölümleri bulunuyor.
 
