@@ -76,6 +76,7 @@
       * [Asoft](dukkanlar/istanbul/asoft.md)
       * [Asperkan](dukkanlar/istanbul/asperkan.md)
       * [Astarte](dukkanlar/istanbul/astarte.md)
+      * [Atılım](dukkanlar/istanbul/atilim.md)
       * [Aytaç Bilgisayar](dukkanlar/istanbul/aytac_bilgisayar.md)
       * [Bil-Mer](dukkanlar/istanbul/bil-mer.md)
       * [Bil-Tek](dukkanlar/istanbul/bil-tek.md)
