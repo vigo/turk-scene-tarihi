@@ -58,6 +58,8 @@
       * [Micro Showy](dukkanlar/ankara/micro_showy.md)
       * [Mi-Kom](dukkanlar/ankara/mi-kom.md)
       * [Önel Elektronik](dukkanlar/ankara/onel_elektronik.md)
+   * [Antalya](dukkanlar/antalya/README.md)
+      * [Computerland](dukkanlar/antalya/computerland.md)
    * [Eskişehir](dukkanlar/eskisehir/README.md)
       * [Datacom Bilgisayar](dukkanlar/eskisehir/datacom_bilgisayar.md)
    * [İstanbul](dukkanlar/istanbul/README.md)
