@@ -86,6 +86,7 @@
       * [Compushop](dukkanlar/istanbul/compushop.md)
       * [Computer Master Center](dukkanlar/istanbul/computer_master_center.md)
       * [Concord](dukkanlar/istanbul/concord.md)
+      * [Desen Bilgisayar](dukkanlar/istanbul/desen_bilgisayar.md)
       * [Erle Bilgisayar](dukkanlar/istanbul/erle_bilgisayar.md)
       * [Erman Computer House](dukkanlar/istanbul/erman_computer_house.md)
       * [Etiler Commodore Center](dukkanlar/istanbul/etiler_commodore_center.md)
