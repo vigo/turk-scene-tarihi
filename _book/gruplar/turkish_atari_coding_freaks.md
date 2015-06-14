@@ -1,1 +1,0 @@
-# Turkish Atari Coding Freaks

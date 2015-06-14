@@ -116,3 +116,7 @@
       * [Datasoft Bilgisayar](dukkanlar/izmir/datasoft_bilgisayar.md)
       * [Emin Bilgisayar](dukkanlar/izmir/emin_bilgisayar.md)
 * [Bölüm 4: Sözlük](sozluk/README.md)
+    * [Import](sozluk/import.md)
+    * [Intro](sozluk/intro.md)
+    * [Spread](sozluk/spread.md)
+    * [Spreader](sozluk/spreader.md)
