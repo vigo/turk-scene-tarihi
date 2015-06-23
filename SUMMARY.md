@@ -116,6 +116,7 @@
       * [Datasoft Bilgisayar](dukkanlar/izmir/datasoft_bilgisayar.md)
       * [Emin Bilgisayar](dukkanlar/izmir/emin_bilgisayar.md)
 * [Bölüm 4: Sözlük](sozluk/README.md)
+    * [Coder](sozluk/coder.md)
     * [Crack](sozluk/crack.md)
     * [Cracker](sozluk/cracker.md)
     * [Cracktro](sozluk/cracktro.md)
