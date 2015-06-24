@@ -124,6 +124,7 @@
     * [Dentro](sozluk/dentro.md)
     * [Import](sozluk/import.md)
     * [Intro](sozluk/intro.md)
+    * [Lamer](sozluk/lamer.md)
     * [Mag](sozluk/mag.md)
     * [Megademo](sozluk/megademo.md)
     * [Original Supplier](sozluk/og_supplier.md)
