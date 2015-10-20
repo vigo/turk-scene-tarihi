@@ -9,9 +9,7 @@ Aşağıdaki liste grup adına göre alfabetik olarak sıralanmıştır. Sayfaya
 * **AMS** : Amstrad CPC
 * **??** : Aktif mi?
 
-Keza, bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı kaynaklı Türk Scener
-’larının olduğu grup listesi ayrıca hazırlanacak. Keza, bir kısım bilgisayarcı da
-aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listeleyeceğiz.
+Keza bu liste sadece Türkiye’den çıkmış grupları içeriyor, yabancı kaynaklı Türk Scener’larının olduğu grup listesi ayrıca hazırlanacak. Keza bir kısım bilgisayarcı da aynı grup gibi intro yayınlamıştı, onları da başka bir kategoride listeleyeceğiz.
 
 
 | Grup                        | YILI  | C64 | AMG | SPC | ATR | AMS | PC | ?? | WWW |
