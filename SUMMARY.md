@@ -139,6 +139,7 @@
     * [Paper Mag](sozluk/paper_mag.md)
     * [Release](sozluk/release.md)
     * [Rip](sozluk/rip.md)
+    * [Ripper](sozluk/ripper.md)
     * [Scroll](sozluk/scroll.md)
     * [Scroller](sozluk/scroller.md)
     * [Spread](sozluk/spread.md)
