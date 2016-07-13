@@ -1,3 +1,3 @@
 # Sözlük
 
-Bu bölümde SCENE/DEMOSCENE’de kullanılan terminoloji göreceğiz.
+Bu bölümde SCENE/DEMOSCENE’de kullanılan terminolojiyi göreceğiz.

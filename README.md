@@ -11,8 +11,8 @@ kültürünün nasıl ortaya çıktığı ve şekillendiğini anlatan bir belge 
 istiyorum.
 
 Özellikle **Commodore 64** ve **Amiga** bilgisayarlarının bu kitapta rolü ve
-önemi çok! 8-bit/16-bit dünyası, zamanında, bizleri nasıl etkiledi ?,
-neler yaptık ? ve günümüze ne tür etkileri oldu ? bu konuları işlemek istiyorum.
+önemi çok! 8-bit/16-bit dünyası zamanında bizleri nasıl etkiledi,
+neler yaptık ve günümüze ne tür etkileri oldu gibi konuları işlemek istiyorum.
 
 İki ana başlık düşünüyorum. **SCENE** ve **DEMOSCENE**. Özellike SCENE, işin
 biraz daha karanlık ve illegal (*yasal olmayan*) yönlerini kapsıyor. Özellikle
